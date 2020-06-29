@@ -8,7 +8,6 @@ venue: 'Chemical Communications'
 paperurl: 'https://pubs.rsc.org/en/content/articlehtml/2013/cc/c3cc40704g'
 citation: 'Zhuoran Zhang, Ting Lei, Qifan Yan, Jian Pei and Dahui Zhao. &quot;Electron-transporting PAHs with Dual Perylenediimides: Syntheses and Semiconductive Characterizations&quot; <i>Chem. Commun.</i> <strong>2013</strong>, <i>49</i>, 2882-2884.'
 ---
-Abstract
 
 An effective method was developed to prepare triphenyleno[1,2,3,4-ghi]perylenediimide derivatives, via ICl-induced annulation, dehalogenation, followed by photocyclization. A perylenediimide (PDI) dimer featuring a terphenyl bisethynylene linker was thereby transformed into a benzo[k]tetraphene fused with two benzoperylenediimides. These PDI derivatives exhibited electron mobility up to 0.079 cm23 V−1 s−1 in solution-processed thin film transistors.
 
