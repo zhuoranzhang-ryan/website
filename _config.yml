@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhuoran Zhang"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Synthetic organic chemist, materials scientist and data scientist"
   location         : "Twin-Cities, MN"
   employer         : "University of Minnesota"
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=PH2oFakAAAAJ&hl=en"
   email            : "zhan3230@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
