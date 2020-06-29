@@ -14,4 +14,4 @@ Electron-deficient asymmetrically substituted diarylindenotetracenes were prepar
 
 ![image_paper_5](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/joceah/2018/joceah.2018.83.issue-4/acs.joc.7b02756/20180212/images/medium/jo-2017-02756b_0008.gif)
 
-[Download paper here](http://academicpages.github.io/files/paper5.pdf)
+[Download paper here](https://github.com/zhuoranzhang-ryan/website/files/paper5.pdf)

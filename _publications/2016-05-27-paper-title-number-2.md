@@ -14,4 +14,4 @@ A synthesis of perfluorinated rubrene is reported. Electrochemical analysis reve
 
 ![image_paper_2](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C6CC03259A&imageInfo.ImageIdentifier.Year=2016)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://github.com/zhuoranzhang-ryan/website/files/paper2.pdf)

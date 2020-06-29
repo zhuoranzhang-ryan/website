@@ -14,6 +14,6 @@ An effective method was developed to prepare triphenyleno[1,2,3,4-ghi]perylenedi
 
 ![image_paper_1](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C3CC40704G&imageInfo.ImageIdentifier.Year=2013)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://github.com/zhuoranzhang-ryan/website/files/paper1.pdf)
 
 
