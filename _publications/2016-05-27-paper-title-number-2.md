@@ -2,7 +2,7 @@
 title: "Synthesis, electrochemical properties, and crystal packing of perfluororubrene"
 collection: publications
 permalink: /publication/2016-05-27-paper-title-number-2
-excerpt: 'A synthesis of perfluorinated rubrene is reported. Electrochemical analysis revealed the significantly increased electron affinity of perfluororubrene compared with non-modified rubrene. Crystallographic investigation revealed two polymorphs and a solvate, each displaying twisted backbone conformations of perfluororubrene. Taken together, these results suggest perfluororubrene will find applications as a new n-type semiconductor.'
+excerpt: #'A synthesis of perfluorinated rubrene is reported. Electrochemical analysis revealed the significantly increased electron affinity of perfluororubrene compared with non-modified rubrene. Crystallographic investigation revealed two polymorphs and a solvate, each displaying twisted backbone conformations of perfluororubrene. Taken together, these results suggest perfluororubrene will find applications as a new n-type semiconductor.'
 date: 2016-05-27
 venue: 'Chemical Communications'
 paperurl: 'https://pubs.rsc.org/en/content/articlehtml/2016/cc/c6cc03259a'
