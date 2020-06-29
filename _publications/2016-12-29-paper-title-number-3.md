@@ -14,4 +14,4 @@ Through a close examination of the intermolecular interactions of rubrene (1a) a
 
 ![image_paper_3](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/cgdefu/2017/cgdefu.2017.17.issue-2/acs.cgd.6b01497/20170126/images/medium/cg-2016-014975_0023.gif)
 
-[Download paper here](https://github.com/zhuoranzhang-ryan/website/files/paper3.pdf)
+[Download paper here](https://zhuoranzhang-ryan.github.io/website/files/paper3.pdf)
