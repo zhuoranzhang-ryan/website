@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* Postdoctoral Asociate, University of Minnesota, Nov 2018 - Present
+* Postdoctoral Associate, University of Minnesota, Nov 2018 - Present
   * Principal investigator: Prof. C. Daniel Frisbie
   * Imaging defects and electronic disorder of organic semiconductors
   * Crystal growth of polycyclic aromatic hydrocarbons
